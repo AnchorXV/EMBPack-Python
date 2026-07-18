@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+embpack_v3.py
 
 # ─── Virtual environments ─────────────────────────────────────────────────
 .venv/
