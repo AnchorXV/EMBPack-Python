@@ -1,0 +1,5 @@
+# GUI dependencies — install with:
+#   pip install -r requirements-gui.txt
+
+PySide6==6.7.2
+texture2ddecoder==1.0.4
